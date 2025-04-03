@@ -2,7 +2,7 @@
 title: INSTALACION DE DNS CON PI-HOLE EN UBUNTU SERVER VERSION 22.04
 description: 
 published: true
-date: 2025-04-03T08:06:39.833Z
+date: 2025-04-03T08:07:46.179Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T22:20:19.427Z
@@ -20,7 +20,7 @@ dateCreated: 2025-03-27T22:20:19.427Z
 >
 > Manizales – Caldas
 >
-> 2025hola
+> 2025
 
 > **Que** **es** **un** **DNS:** Un DNS (Sistema de Nombres de Dominio, por sus siglas en inglés: **Domain** **Name** **System**) es un servicio que traduce nombres de dominio legibles por humanos (como [<u>www.example.com</u>)](http://www.example.com/) en direcciones IP numéricas (como 192.0.2.1) que las computadoras utilizan para identificarse entre sí en una red.
 >
