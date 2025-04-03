@@ -2,7 +2,7 @@
 title: INSTALACION DE DNS CON PI-HOLE EN UBUNTU SERVER VERSION 22.04
 description: 
 published: true
-date: 2025-04-03T08:03:04.795Z
+date: 2025-04-03T08:05:10.797Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T22:20:19.427Z
@@ -28,7 +28,7 @@ dateCreated: 2025-03-27T22:20:19.427Z
 >
 > **Paso 1:**
 >
-> Lo primero que hay que hacer es entrar a proxmox para crear un LXC de Ubuntu server en caso tal de que no tengas proxmox puedes descargando e instalarlo siguiendo el paso a paso que te da la página oficial de proxmox para que así puedas empezar con el paso a paso que vamos hacer.hola
+> Lo primero que hay que hacer es entrar a proxmox para crear un LXC de Ubuntu server en caso tal de que no tengas proxmox puedes descargando e instalarlo siguiendo el paso a paso que te da la página oficial de proxmox para que así puedas empezar con el paso a paso que vamos hacer.
 >
 > Una vez que entremos a proxmox lo primero que hacemos es darle en la opción de crear LXC o créate ct como lo vemos en la imagen:
 >
